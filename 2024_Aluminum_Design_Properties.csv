@@ -1,0 +1,7 @@
+Material,Specification,Form,Basis,Min Thickness,Max Thickness,F_tu ksi (L),F_tu ksi (LT),F_tu ksi (ST),F_ty ksi (L),F_ty ksi (LT),F_ty ksi (ST),F_cy ksi (L),F_cy ksi (LT),F_cy ksi (ST),F_su ksi (L & LT),F_bru ksi (L & LT) e/D=1.5,F_bru ksi (L & LT) e/D=2.0,F_bry ksi (L & LT) e/D=1.5,F_bry ksi (L & LT) e/D=2.0,e_ percent (S-Basis),Elastic_Modulus ksi
+2024 Aluminum,Plate (T351),AMS 4037 and AMS-QQ-A-250/4,A,0.25,0.499,64,64,64,48,42,48,39,45,45,38,97,119,72,86,12,10.7
+2024 Aluminum,Plate (T351),AMS 4037 and AMS-QQ-A-250/4,B,0.25,0.499,66,66,66,50,44,50,41,47,47,39,100,122,76,90,12,10.7
+2024 Aluminum,Plate (T351),AMS 4037 and AMS-QQ-A-250/4,A,0.5,1,63,63,63,48,42,48,39,45,45,37,95,117,72,86,8,10.7
+2024 Aluminum,Plate (T351),AMS 4037 and AMS-QQ-A-250/4,B,0.5,1,65,65,65,50,44,50,41,47,47,38,98,120,76,90,8,10.7
+2024 Aluminum,Plate (T351),AMS 4037 and AMS-QQ-A-250/4,A,1,1.5,62,62,62,47,42,47,39,44,44,37,94,115,72,86,7,10.7
+2024 Aluminum,Plate (T351),AMS 4037 and AMS-QQ-A-250/4,B,1,1.5,64,64,64,50,44,50,40,46,46,38,97,119,76,90,7,10.7
