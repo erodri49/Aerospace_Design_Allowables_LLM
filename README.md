@@ -19,7 +19,6 @@ Instructions for running files
 - If you choose to re-run the notebook after using pinecone, you first have to go into the pinecone website and delete the previously created index.
 - Source = https://www.youtube.com/watch?v=ZIvcVJGtCrY&t=489s
 - Source2 = https://docs.llamaindex.ai/en/stable/examples/index_structs/struct_indices/SQLIndexDemo/
-- Source3 = https://www.youtube.com/watch?v=T0bgevj0vto
 
 3) 03_Advanced_RAG_Pnadas
 - This notebook contains an implementation of advanced RAG on tabular data.
@@ -28,6 +27,7 @@ Instructions for running files
 - The notebook uses a .csv file as input. If ran on google colab, you need to upload the .csv file.
 - Source = https://www.youtube.com/watch?v=L1o1VPVfbb0&t=674s
 - Source2 = https://docs.llamaindex.ai/en/stable/examples/pipeline/query_pipeline_pandas/
+- Source3 = https://www.youtube.com/watch?v=T0bgevj0vto
 
 
 Pinecone = https://app.pinecone.io/organizations/-O4Ely1KM4y7nHmv00g_/projects/e56d9752-fe00-4618-88e6-3868fe8ebd95/indexes?sessionType=login&_gl=1*18fhy73*_up*MQ..&gclid=Cj0KCQjww5u2BhDeARIsALBuLnPKMdX_kSfiXi7uCSFD3X1p8lmrYTYXny-YKA3mN1ABQxBETv2MXyMaAhLgEALw_wcB
